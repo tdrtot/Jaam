@@ -1,2 +1,0 @@
-# Jaam
-Spotify API Project
